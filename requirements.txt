@@ -7,5 +7,4 @@ requests==1.2.0
 w3lib==1.2
 wsgiref==0.1.2
 zope.interface==4.0.5
-beautifulsoup4
 beautifulsoup4==4.1.3
