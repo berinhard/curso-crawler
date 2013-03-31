@@ -37,4 +37,6 @@ nosetests.xml
 .project
 .pydevproject
 
+# Others
 database.db
+*.json
